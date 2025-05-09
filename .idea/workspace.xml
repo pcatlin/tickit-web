@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="no _!">
+    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="terms and privacy content">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gift-cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift-cards/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reminders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reminders/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746694184614</updated>
       <workItem from="1746694186038" duration="900000" />
-      <workItem from="1746695564075" duration="23168000" />
+      <workItem from="1746695564075" duration="25389000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -196,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746789326203</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="some content">
+      <option name="closed" value="true" />
+      <created>1746792349245</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746792349245</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +231,8 @@
     <MESSAGE value="link css" />
     <MESSAGE value="headers" />
     <MESSAGE value="no _!" />
-    <option name="LAST_COMMIT_MESSAGE" value="no _!" />
+    <MESSAGE value="some content" />
+    <MESSAGE value="terms and privacy content" />
+    <option name="LAST_COMMIT_MESSAGE" value="terms and privacy content" />
   </component>
 </project>
