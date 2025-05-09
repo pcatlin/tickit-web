@@ -1,0 +1,21 @@
+html {
+    --colour-primary: hsl(211, 100%, 50%);
+    --colour-secondary: hsl(208, 7%, 46%);
+    --colour-success: hsl(134, 61%, 41%);
+    --colour-danger: hsl(354, 70%, 54%);
+    --colour-warning: hsl(45, 100%, 51%);
+    --colour-info: hsl(188, 78%, 41%);
+    --colour-light: hsl(210, 17%, 98%);
+    --colour-dark: hsl(210, 10%, 23%);
+
+    --colour-text: var(--colour-dark);
+    --colour-header: var(--colour-secondary);
+    --colour-footer: var(--colour-secondary);
+
+    --font-family-sans-serif: 'Helvetica Neue', Arial, sans-serif;
+    --font-family-serif: 'Georgia', serif;
+    --font-family-monospace: 'Courier New', Courier, monospace;
+
+    --font-size-base: 1rem;
+    --line-height-base: 1.5;
+}
