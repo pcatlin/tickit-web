@@ -4,21 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="link css">
-      <change afterPath="$PROJECT_DIR$/_css/_vars.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_css/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_css/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_js/_main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
+    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="headers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/_vars.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/vars.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_js/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gift-cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift-cards/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_css/_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reminders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reminders/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746694184614</updated>
       <workItem from="1746694186038" duration="900000" />
-      <workItem from="1746695564075" duration="19914000" />
+      <workItem from="1746695564075" duration="20739000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -186,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746781462660</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="headers">
+      <option name="closed" value="true" />
+      <created>1746788112561</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1746788112561</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +219,7 @@
     <MESSAGE value="test2" />
     <MESSAGE value="basic" />
     <MESSAGE value="link css" />
-    <option name="LAST_COMMIT_MESSAGE" value="link css" />
+    <MESSAGE value="headers" />
+    <option name="LAST_COMMIT_MESSAGE" value="headers" />
   </component>
 </project>
