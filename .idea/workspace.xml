@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="headers">
+    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="no _!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/_vars.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/vars.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_js/_main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gift-cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift-cards/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -128,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746694184614</updated>
       <workItem from="1746694186038" duration="900000" />
-      <workItem from="1746695564075" duration="20739000" />
+      <workItem from="1746695564075" duration="23168000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -194,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746788112561</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="no _!">
+      <option name="closed" value="true" />
+      <created>1746789326203</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746789326203</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +222,7 @@
     <MESSAGE value="basic" />
     <MESSAGE value="link css" />
     <MESSAGE value="headers" />
-    <option name="LAST_COMMIT_MESSAGE" value="headers" />
+    <MESSAGE value="no _!" />
+    <option name="LAST_COMMIT_MESSAGE" value="no _!" />
   </component>
 </project>

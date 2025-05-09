@@ -9,6 +9,7 @@ html {
 body {
     margin: 0;
     padding: 0;
+    color: var(--colour-text);
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -16,7 +17,7 @@ h1, h2, h3, h4, h5, h6, p {
     font-weight: 400;
     font-size: var(--font-size-base);
     line-height: var(--line-height-base);
-    color: var(--colour-text);
+    color: inherit;
 }
 
 p + p {
