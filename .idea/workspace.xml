@@ -4,12 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="terms and privacy content">
+    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="main classes">
+      <change afterPath="$PROJECT_DIR$/articles/10-top-tips-for-using-gift-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/how-to-use-gift-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/make-money-using-gift-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/never-forget-about-your-gift-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/articles/top-10-useful-gift-cards.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/app-store-badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/google-play-badge.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/restaurant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tickit-cards-logo.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vars.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/vars.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gift-cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift-cards/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reminders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reminders/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +39,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="workflow" />
-        <option value="HTML File" />
         <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,28 +76,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/paulcatlin/Projects/tickit-web/privacy&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/paulcatlin/Projects/tickit-web/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/paulcatlin/Projects/tickit-web/images",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/paulcatlin/Projects/tickit-web/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/privacy" />
       <recent name="$PROJECT_DIR$/terms" />
       <recent name="$PROJECT_DIR$" />
@@ -107,7 +127,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
       </set>
     </attachedChunks>
   </component>
@@ -119,7 +139,21 @@
       <option name="presentableId" value="Default" />
       <updated>1746694184614</updated>
       <workItem from="1746694186038" duration="900000" />
-      <workItem from="1746695564075" duration="26437000" />
+      <workItem from="1746695564075" duration="27434000" />
+      <workItem from="1747033509434" duration="1174000" />
+      <workItem from="1747050151540" duration="600000" />
+      <workItem from="1747063709762" duration="44000" />
+      <workItem from="1747821340126" duration="5624000" />
+      <workItem from="1748167076326" duration="507000" />
+      <workItem from="1748515879456" duration="119000" />
+      <workItem from="1748516660945" duration="599000" />
+      <workItem from="1748848105115" duration="552000" />
+      <workItem from="1748933480901" duration="1383000" />
+      <workItem from="1749131339859" duration="725000" />
+      <workItem from="1749452243633" duration="549000" />
+      <workItem from="1749714946175" duration="598000" />
+      <workItem from="1749934723901" duration="590000" />
+      <workItem from="1750058113053" duration="3890000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -209,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746797657446</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="main classes">
+      <option name="closed" value="true" />
+      <created>1746798828828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746798828828</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +280,7 @@
     <MESSAGE value="no _!" />
     <MESSAGE value="some content" />
     <MESSAGE value="terms and privacy content" />
-    <option name="LAST_COMMIT_MESSAGE" value="terms and privacy content" />
+    <MESSAGE value="main classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="main classes" />
   </component>
 </project>

@@ -9,7 +9,6 @@ html {
 body {
     margin: 0;
     padding: 0;
-    color: var(--colour-text);
     min-height: 100dvh;
 }
 
@@ -26,7 +25,7 @@ p + p {
 }
 
 a {
-    color: var(--colour-primary);
+    color: var(--gray-50);
     text-decoration: none;
     font-weight: 500;
 }

@@ -1,12 +1,31 @@
 header {
-    background-color: var(--colour-header);
-    color: var(--colour-text);
+    background-color: var(--gray-900);
+    color: var(--teal-100);
     display: flex;
     justify-content:  space-between;
     align-items: center;
 
     @media (width < 500px) {
         flex-direction: column;
+    }
+
+    .logo-container {
+        display: flex;
+        align-items: center;
+        gap: 1em;
+        padding: 0.5rem;
+
+        p {
+            font-size: 2rem;
+            font-weight: 800;
+            text-align: center;
+        }
+    }
+
+    .logo {
+        display: block;
+        width: 100px;
+        height: auto;
     }
 
     nav ul {
@@ -20,11 +39,10 @@ header {
             a {
                 display: block;
                 padding: 1em;
-                color: var(--colour-text);
 
                 &:hover {
-                    background-color: var(--colour-primary);
-                    color: var(--colour-secondary);
+                    background-color: var(--teal-300);
+                    color: var(--gray-900);
                 }
             }
         }

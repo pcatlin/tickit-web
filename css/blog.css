@@ -1,0 +1,15 @@
+.blog {
+    .layout {
+        display: flex;
+        gap: 2rem;
+        flex-wrap: wrap;
+    }
+
+    .blog-snippet {
+        img {
+            width: min(300px, 100%);
+            height: auto;
+            border-radius: 8px;
+        }
+    }
+}
