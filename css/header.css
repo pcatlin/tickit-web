@@ -24,8 +24,12 @@ header {
 
     .logo {
         display: block;
-        width: 100px;
+        width: 85px;
         height: auto;
+
+        @media (width < 500px) {
+            width: 50px;
+        }
     }
 
     nav ul {
