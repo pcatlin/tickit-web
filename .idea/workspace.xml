@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="favicon added again">
-      <change afterPath="$PROJECT_DIR$/images/buy-me-a-coffee-button.png" afterDir="false" />
+    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="buy me a coffee link added">
+      <change afterPath="$PROJECT_DIR$/css/utilities.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gift-cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift-cards/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reminders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reminders/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +134,7 @@
       <workItem from="1749714946175" duration="598000" />
       <workItem from="1749934723901" duration="590000" />
       <workItem from="1750058113053" duration="5215000" />
-      <workItem from="1750320032018" duration="14830000" />
+      <workItem from="1750320032018" duration="16182000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -282,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750414231828</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="buy me a coffee link added">
+      <option name="closed" value="true" />
+      <created>1750415543017</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1750415543017</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +324,7 @@
     <MESSAGE value="store logo sizing improved" />
     <MESSAGE value="favicon added" />
     <MESSAGE value="favicon added again" />
-    <option name="LAST_COMMIT_MESSAGE" value="favicon added again" />
+    <MESSAGE value="buy me a coffee link added" />
+    <option name="LAST_COMMIT_MESSAGE" value="buy me a coffee link added" />
   </component>
 </project>
