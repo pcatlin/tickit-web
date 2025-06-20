@@ -4,10 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="mobile tweaks">
+    <list default="true" id="91f66778-875e-41de-bc92-c1892d49087d" name="Changes" comment="store logo sizing improved">
+      <change afterPath="$PROJECT_DIR$/images/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/web-app-manifest-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/web-app-manifest-512x512.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/10-top-tips-for-using-gift-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/10-top-tips-for-using-gift-cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/guide-to-tickit-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/guide-to-tickit-cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/how-to-use-gift-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/how-to-use-gift-cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/make-money-using-gift-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/make-money-using-gift-cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/never-forget-about-your-gift-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/never-forget-about-your-gift-cards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/articles/top-10-useful-gift-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/articles/top-10-useful-gift-cards.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gift-cards/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gift-cards/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ideas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ideas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/privacy/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reminders/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reminders/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/terms/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/paulcatlin/Projects/tickit-web/images/blog",
+    "last_opened_file_path": "/Users/paulcatlin/Projects/tickit-web/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -77,9 +95,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/images/blog" />
       <recent name="$PROJECT_DIR$/articles" />
-      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/privacy" />
       <recent name="$PROJECT_DIR$/terms" />
     </key>
@@ -133,7 +151,7 @@
       <workItem from="1749714946175" duration="598000" />
       <workItem from="1749934723901" duration="590000" />
       <workItem from="1750058113053" duration="5215000" />
-      <workItem from="1750320032018" duration="10825000" />
+      <workItem from="1750320032018" duration="13335000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -255,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750332875262</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="store logo sizing improved">
+      <option name="closed" value="true" />
+      <created>1750405577443</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1750405577443</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +314,7 @@
     <MESSAGE value="improvements" />
     <MESSAGE value="blog styling and images" />
     <MESSAGE value="mobile tweaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile tweaks" />
+    <MESSAGE value="store logo sizing improved" />
+    <option name="LAST_COMMIT_MESSAGE" value="store logo sizing improved" />
   </component>
 </project>
