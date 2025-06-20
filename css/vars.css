@@ -29,4 +29,9 @@ html {
 
     --font-size-base: 1rem;
     --line-height-base: 1.5;
+
+    --spacing-1: 0.5rem;
+    --spacing-2: 1rem;
+    --spacing-3: 2rem;
+    --spacing-4: 3rem;
 }

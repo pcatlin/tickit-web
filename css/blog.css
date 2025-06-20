@@ -28,6 +28,10 @@
 
 
 .blog-article {
+    .container {
+        max-width: 750px;
+    }
+
     .title-image {
         display: block;
         width: min(500px, 100%);
@@ -72,5 +76,9 @@
             margin-bottom: 0;
             color: var(--gray-300);
         }
+    }
+
+    .step {
+        font-size: 2rem;
     }
 }
